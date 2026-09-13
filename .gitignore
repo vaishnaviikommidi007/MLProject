@@ -4,3 +4,4 @@ __pycache__/
 venv/
 .env
 .ipynb_checkpoints/
+data/fmcg_sales_3years_1M_rows.csv
